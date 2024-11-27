@@ -1,0 +1,25 @@
+ [
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1",
+    "description": "Your everyday companion for carrying essentials.",
+    "price": 109.95,
+    "originalPrice": 120.0,
+    "rating": { "rate": 4.5, "count": 120 },
+    "image": "/images/img4.jpg",
+    "inStock": true,
+    "category": "Tops"
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Comfortable and stylish for everyday wear.",
+    "price": 22.3,
+    "originalPrice": 30.0,
+    "rating": { "rate": 4.2, "count": 200 },
+    "image": "/images/img5.jpg",
+    "inStock": true,
+    "category": "Tops"
+  }
+
+]

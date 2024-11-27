@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1",
+    "description": "Your everyday companion for carrying essentials.",
+    "price": 109.95,
+    "originalPrice": 120.0,
+    "rating": { "rate": 4.5, "count": 120 },
+    "image": "../images/img4.jpg",
+    "inStock": true,
+    "category": "Tops"
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Comfortable and stylish for everyday wear.",
+    "price": 22.3,
+    "originalPrice": 30.0,
+    "rating": { "rate": 4.2, "count": 200 },
+    "image": "../images/img5.jpg",
+    "inStock": true,
+    "category": "Tops"
+  },
+  {
+    "id": 3,
+    "title": "Mens Cotton Jacket",
+    "description": "Perfect for the holiday season.",
+    "price": 55.99,
+    "originalPrice": 70.0,
+    "rating": { "rate": 4.7, "count": 85 },
+    "image": "../images/img6.jpg",
+    "inStock": false,
+    "category": "Bottoms"
+  },
+  {
+    "id": 4,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img7.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 5,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img8.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 6,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img9.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 7,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img10.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 8,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img11.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 9,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img12.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 10,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img13.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 11,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img14.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 12,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img16.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 13,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img17.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 14,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img18.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 15,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img19.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 16,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img20.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 17,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img21.jpg",
+    "inStock": false,
+    "category": "Bottoms"
+  },
+  {
+    "id": 18,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img22.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 19,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img23.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  },
+  {
+    "id": 20,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Casual wear for any occasion.",
+    "price": 30.99,
+    "originalPrice": 45.0,
+    "rating": { "rate": 4.3, "count": 150 },
+    "image": "../images/img16.jpg",
+    "inStock": true,
+    "category": "Bottoms"
+  }
+]

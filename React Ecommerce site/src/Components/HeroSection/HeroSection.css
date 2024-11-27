@@ -1,0 +1,49 @@
+/* HeroSection.css */
+.hero {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background: url("../../../public/images/none.png") no-repeat center center/cover;
+    /* Update path */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Add a dark overlay for better text visibility */
+}
+
+.content {
+    position: relative;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+    max-width: 800px;
+}
+
+.tagline {
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    line-height: 1.2;
+}
+
+
+
+.button:hover {
+    background-color: #444;
+}

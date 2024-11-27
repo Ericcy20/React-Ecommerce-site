@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+img {
+  width: 60rem;
+  display: block;
+}
+
+.parallax {
+  margin-top: 6rem;
+  background-image: url("../public/images/img1.jpg");
+  height: 18rem;
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media only screen and (max-device-width: 200px) {
+  .parallax {
+    background-attachment: scroll;
+  }
+}
